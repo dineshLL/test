@@ -1,0 +1,72 @@
+.welcome__header___1b2kF {
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  height: 100%;
+  color: white;
+}
+.welcome__introText___1uVyQ {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  color: #1B5E20;
+}
+.welcome__introText___1uVyQ .welcome__introLeadIn___21Z-P {
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+  font-size: 22px;
+  line-height: 22px;
+  margin-bottom: 25px;
+  color: #1B5E20;
+}
+.welcome__introText___1uVyQ .welcome__introHeading___2xPZ- {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 50px;
+  margin-bottom: 25px;
+  color: #1B5E20;
+}
+.dashboard__test___3NABS {
+  background-color: blue;
+  height: 100%;
+}
+.login__body___Q4qpu {
+  background: #e2e1e0;
+  text-align: center;
+  background-image: url("http://fuse-angular-material.withinpixels.com/assets/images/backgrounds/march.jpg");
+  background-size: cover;
+}
+
+.login__loginPanel___2BtYq {
+  background: #fff;
+  display: inline-block;
+  height: 100%;
+  padding: 40px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.login__loginPaper___3olf- {
+  height: 100%;
+  width: 100%;
+  text-align: 'center';
+  display: 'inline-block';
+}
+
+.login__checkBoxContainer___26XHT {
+  margin-top: 10px;
+  padding-left: 0;
+}
+.grn__test___3v8bT {
+  background-color: red;
+}
+.grn__indentX5___3m91F {
+  text-indent: 5em;
+}
+
+/*# sourceMappingURL=styles.css.map*/
